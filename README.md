@@ -3,7 +3,9 @@ I'm a passionate Front-End Developer specializing in React. I interst in creatin
 
 About Me :
 🎓 I am a student at Faculty of computer science Zagazig University
+
 💼 Currently working as a React Developer as a freelancer
+
 🌍 I'm based in Damietta - Egypt.
 
 My Experience :
