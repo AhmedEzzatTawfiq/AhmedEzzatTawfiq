@@ -2,6 +2,7 @@ Ahmed Ezzat - Front-End Developer React.js
 I'm a passionate Front-End Developer specializing in React. I interst in creating dynamic, responsive web applications that provide excellent user experiences.
 
 About Me :
+
 🎓 I am a student at Faculty of computer science Zagazig University
 
 💼 Currently working as a React Developer as a freelancer
