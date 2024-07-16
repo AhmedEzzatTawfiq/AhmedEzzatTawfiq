@@ -1,4 +1,5 @@
-Ahmed Ezzat - Front-End Developer React.js
+Ahmed Ezzat - Frontend Developer React.js.
+
 I'm a passionate Front-End Developer specializing in React. I interst in creating dynamic, responsive web applications that provide excellent user experiences.
 
 About Me :
@@ -17,7 +18,7 @@ Front-End Development: I have extensive experience in developing modern web appl
 
 React Ecosystem: I'm proficient in working with the React ecosystem, including Redux for state management, React Router for navigation, and Hooks for managing side effects and component state. I also have experience with Next.js for server-side rendering and static site generation.
 
-JavaScript & TypeScript: I have a strong command of JavaScript (ES6+) and TypeScript, enabling me to write robust and maintainable code. I enjoy leveraging modern JavaScript features to build clean and efficient applications.
+JavaScript : I have a strong command of JavaScript (ES6+) and TypeScript, enabling me to write robust and maintainable code. I enjoy leveraging modern JavaScript features to build clean and efficient applications.
 
 Styling & Design: I have a keen eye for design and experience with various styling solutions such as CSS, Sass, and CSS-in-JS libraries like styled-components and Emotion. I often collaborate with designers to implement visually appealing and user-friendly interfaces.
 
