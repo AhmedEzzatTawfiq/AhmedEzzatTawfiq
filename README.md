@@ -3,7 +3,7 @@ I'm a passionate Front-End Developer specializing in React. I interst in creatin
 
 About Me :
 
-🎓 I am a graduate of the Faculty of Computer Science at Zagazig University
+🎓 I am a recent graduate from the Faculty of Computer Science at Zagazig University
 
 💼 Currently working as a React Developer as a freelancer
 
