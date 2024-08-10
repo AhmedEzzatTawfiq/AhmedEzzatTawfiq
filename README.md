@@ -22,8 +22,6 @@ JavaScript : I have a strong command of JavaScript (ES6+) and TypeScript, enabli
 
 Styling & Design: I have a keen eye for design and experience with various styling solutions such as CSS, Sass, and CSS-in-JS libraries like styled-components and Emotion. I often collaborate with designers to implement visually appealing and user-friendly interfaces.
 
-Testing: I believe in the importance of testing and have experience with testing frameworks like Jest and React Testing Library. I write unit tests, integration tests, and end-to-end tests to ensure the reliability and quality of my code.
-
 Tooling & Workflow: I'm skilled in using modern development tools and workflows, including Git for version control, Webpack and Babel for bundling and transpiling, and npm for package management. I strive to maintain an efficient and productive development environment.
 
 Performance Optimization: I focus on performance optimization to ensure fast load times and smooth interactions. I use techniques such as lazy loading, code splitting, and memoization to enhance the performance of my applications.
